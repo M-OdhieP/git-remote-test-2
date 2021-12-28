@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Test remote git</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quaerat officia, minus, excepturi repudiandae, laudantium impedit voluptas sit illo voluptate beatae aut cupiditate autem ratione laboriosam nemo exercitationem eius ipsam.</p>
 </body>
 </html>
